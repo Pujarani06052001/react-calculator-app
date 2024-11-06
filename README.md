@@ -31,6 +31,7 @@ npm run dev
 
 
 📱 Responsive Design
+
 The app is optimized for mobile devices with a fluid layout that adapts to different screen sizes. The calculator buttons adjust automatically based on your screen width. 🧑‍💻📱
 
 ⚙️ Built With
@@ -39,5 +40,6 @@ React: A JavaScript library for building user interfaces.
 Vite: A fast and optimized build tool.
 
 
-💡 Inspiration
+💡 
+
 This project is a fun and simple exercise to practice building user interfaces with React and setting up a modern development environment using Vite. It’s perfect for beginners looking to practice basic arithmetic functionality and UI design. ✨
