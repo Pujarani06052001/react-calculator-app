@@ -16,6 +16,22 @@ A simple and user-friendly calculator app built with **React** and **Vite**. It 
    ```bash
    git clone <repository-url>
 
+Navigate to the Project Folder:
+
+bash
+Copy code
+cd calculator-app
+Install Dependencies:
+
+bash
+Copy code
+npm install
+Run the Application:
+
+bash
+Copy code
+npm run dev
+
 
 📱 Responsive Design
 The app is optimized for mobile devices with a fluid layout that adapts to different screen sizes. The calculator buttons adjust automatically based on your screen width. 🧑‍💻📱
