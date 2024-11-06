@@ -39,6 +39,9 @@ The app is optimized for mobile devices with a fluid layout that adapts to diffe
 React: A JavaScript library for building user interfaces.
 Vite: A fast and optimized build tool.
 
+🖥️ Desktop View and 📱 Mobile View
+<img width="928" alt="2024-11-06 (3)" src="https://github.com/user-attachments/assets/58068079-570a-4dc3-8eb5-7d997d612d26">
+
 
 💡 Inspiration
 
