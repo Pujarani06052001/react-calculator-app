@@ -18,18 +18,15 @@ A simple and user-friendly calculator app built with **React** and **Vite**. It 
 
 Navigate to the Project Folder:
 
-bash
-Copy code
+
 cd calculator-app
+
 Install Dependencies:
 
-bash
-Copy code
 npm install
+
 Run the Application:
 
-bash
-Copy code
 npm run dev
 
 
